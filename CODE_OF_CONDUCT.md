@@ -14,7 +14,10 @@ Being patient and helpful will boost trust among your colleagues and will help c
 It’s inevitable that we’ll all need help on occasion. By greeting each other with helpfulness and courtesy, we can have a productive workspace and a happy team.
 
 ### Teach, don't tell
-If your colleague needs help understanding a task, take the time to walk them through it. 
+When people ask questions, often due to lack of knowledge, try to be proactive and use their existing knowledge to draw the information from them, or to point them in the right direction. 
+If you tell someone to do something they are less likely to remember this in the future, so helping the person to identify a solution to their problems using questions can be a great way to teach your colleagues in techniques they aren't quite familiar with. 
+Think about using leading, directed questions "What would you do if..." or "How would you do...." instead of "Do it like this....". 
+Use the tell method only to reinforce their ideas with additional information. If your colleague needs help understanding a task, take the time to walk them through it. 
 Show them how the task is performed so that they’ll be able to perform it next time. Have the mindset of teaching not telling.
 
 ### Interjecting
