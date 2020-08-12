@@ -1,7 +1,7 @@
 # Code of Conduct
 
 ## What do we stand for?
-This Code of Conduct is designed to help all of us build a pleasant, productive, and accomplished team. Our Code of Conduct is not meant to burden the team with a bunch of needless rules, or to punish our valued employees for past behaviors. Rather, we are striving every day to make a hospitable environment for our great engineering team, especially for those who have faced more adverse working environments in the past.
+Our Code of Conduct is designed to help all of us build a pleasant, productive, and accomplished team. It is not meant to burden the team with a bunch of needless rules, or to punish our valued employees for past behaviors. Rather, we are striving every day to make a hospitable environment for our great engineering team, especially for those who have faced more adverse working environments in the past.
 
 We strive to build a culture of inclusivity, honesty, and integrity. As a team, we can ensure every employee feels heard and respected. Teamwork is a must. We’re all here together to make great products for our customers, and more importantly, a pleasant work environment for our colleagues.
 
