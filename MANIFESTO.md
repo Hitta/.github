@@ -2,14 +2,14 @@
 As Hitta.se's development team, we believe in...
 
 1. **Testing matters**
-   - We exponentially increase the amount of rework when we try to find and fix bugs later in any lifecycle.
+   - Testing early and often exponentially decreases the amount of rework as compared to trying to find and fix bugs later in any lifecycle.
    - That's why we test early and test often.
    - We always dedicate time to expand our automated test suites by building both unit and end-to-end tests.
 2. **Quality above all**
    - Quality takes priority over features and time.
    - Quality has many facets, such as security, performance and even a great user experience.
 3. **No islands**
-   - We collaborate on design.
+   - We collaborate on design and specs.
    - We make sure knowledge is shared.
    - We do continuous code reviews.
    - We commit and push frequently.
