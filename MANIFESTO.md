@@ -16,10 +16,12 @@ As Hitta.se's development team, we believe in...
    - We commit and push frequently.
    - We give honest feedback.
    - Processes are a means to help individuals and interactions.
-   - Learn from others and helpothers learn from you.
+   - Learn from others and help others learn from you.
 4. **Coding is an art**
    - Designing solutions for the right scale, don't over-architect.
-   - KISS principle.
+   - Aim for simplicity, honer KISS principle.
+   - Design patterns are inspirations, not solutions.
+   - You code for people not machines.
    - Using a data driven approach to solve problems, e.g. use of profiling tools and other collected data points.
    - Leaving code better than you found it.
    - Keeping number of dependencies at a minimum.
@@ -31,5 +33,6 @@ As Hitta.se's development team, we believe in...
    - We should automate everything we can from tests to builds to deployements to anything else done manually today.
 6. **Have fun, be proud**
    - Having a common goal.
-   - To never set boundaries, never stop, learn everthing and always expanding your knowledge.
+   - Master your tools.
+   - Remain a beginner, remain a learner.
    - Work doesn't always have to be fun, but you should derive some satisfaction from it be proud of how far you have come.
