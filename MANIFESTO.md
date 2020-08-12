@@ -8,7 +8,6 @@ As Hitta.se's development team, we believe in...
 2. **Quality above all**
    - Quality takes priority over features and time.
    - Quality has many facets, such as security, performance and even a great user experience.
-   - Code we write in the morning may be in production by the afternoon.
 3. **No islands**
    - We collaborate on design.
    - We make sure knowledge is shared.
@@ -24,6 +23,7 @@ As Hitta.se's development team, we believe in...
    - You code for people, not machines.
    - Using a data driven approach to solve problems, e.g. use of profiling tools and other collected data points.
    - Leaving code better than you found it.
+   - Aggregate data at or close to the source - transfer as little as possible.
    - Keeping number of dependencies at a minimum.
    - Be pragmatic, not perfectionist.
    - Hone your craft and reserve time for deliberate practice.
@@ -31,6 +31,7 @@ As Hitta.se's development team, we believe in...
 5. **Automation is essential**
    - Manual steps are the bane of rapid and reliable delivery.
    - We should automate everything we can from tests to builds to deployements to anything else done manually today.
+   - Code we write in the morning may be in production by the afternoon.
 6. **Have fun, be proud**
    - Having a common goal.
    - Master your tools.
