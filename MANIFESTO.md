@@ -1,5 +1,5 @@
 # Manifesto
-As Hitta.se's development team, we believe in...
+As Hitta.se's development team, we believe in:
 
 1. **Testing matters**
    - Testing early and often exponentially decreases the amount of rework as compared to trying to find and fix bugs later in any lifecycle.
