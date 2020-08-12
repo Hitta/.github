@@ -21,7 +21,7 @@ As Hitta.se's development team, we believe in...
    - Designing solutions for the right scale, don't over-architect.
    - Aim for simplicity, honor KISS principle.
    - Design patterns are inspirations, not solutions.
-   - You code for people not machines.
+   - You code for people, not machines.
    - Using a data driven approach to solve problems, e.g. use of profiling tools and other collected data points.
    - Leaving code better than you found it.
    - Keeping number of dependencies at a minimum.
