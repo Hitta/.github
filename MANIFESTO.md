@@ -3,7 +3,6 @@ As Hitta.se's development team, we believe in:
 
 1. **Testing matters**
    - Testing early and often exponentially decreases the amount of rework as compared to trying to find and fix bugs later in any lifecycle.
-   - That's why we test early and test often.
    - We always dedicate time to expand our automated test suites by building both unit and end-to-end tests.
 2. **Quality above all**
    - Quality takes priority over features and time.
@@ -11,13 +10,14 @@ As Hitta.se's development team, we believe in:
 3. **No islands**
    - We collaborate on design and specs.
    - We make sure knowledge is shared.
-   - We do continuous code reviews.
+   - We continuously review our code
    - We commit and push frequently.
    - We give honest feedback.
    - Processes are a means to help individuals and interactions.
    - Learn from others and help others learn from you.
 4. **Coding is an art**
-   - Designing solutions for the right scale, don't over-architect.
+   - Designing solutions for the right scale.
+   - Don't over-architect.
    - Aim for simplicity, honor KISS principle.
    - Design patterns are inspirations, not solutions.
    - You code for people, not machines.
@@ -25,7 +25,7 @@ As Hitta.se's development team, we believe in:
    - Leaving code better than you found it.
    - Aggregate data at or close to the source - transfer as little as possible.
    - Keeping number of dependencies at a minimum.
-   - Be pragmatic, not perfectionist.
+   - Be pragmatic, not a perfectionist.
    - Hone your craft and reserve time for deliberate practice.
    - Try things out but don't follow every trend.
 5. **Automation is essential**
