@@ -1,8 +1,8 @@
-## Problem and solution
-_What problem are you trying to solve? How did you solve the problem?_
-_Also mention if any other changes have been made that are relevant and include screenshots if they could help the review_
+## Description Problem, solution or enhancement
+_Describe the purpose of the pull request_
+_Mention other relevant changes & include screenshots if they could help the review_
 
-![](https://github.trello.services/images/mini-trello-icon.png) [Ticket subject](<ticket-url>)
+<img src="https://hitta.myjetbrains.com/youtrack/static/favicon.ico" alt="YouTrack" width="15" height="15"> [YOUTRACK_SUBJECT](<YOUTRACK_URL>)
 
 ## Deploy notes
-_Note any deployment specific changes, e.g: env variables, scripts or changes in dependencies_
+_Examples: Environment variables, scripts or changes in dependencies_
