@@ -31,3 +31,12 @@ The message should contain:
 
 * Message about what went wrong
 * Information about where the error happened. E.g class name, stack trace
+
+## HTTP status responses
+To make it easier to spot issues with our services it is important to return the correct status codes from our endpoints:
+
+| Level   | Description                                                                                     |
+|---------|-------------------------------------------------------------------------------------------------|
+| 500     | Internal server errors, only use if the service crashed for unknown reasons                     |
+| 404     | If the endpoint does not exist, this should not be used as status code when an item is not found|
+| 204     | Can be returned if the item was not found by an endpoint |                                      |
