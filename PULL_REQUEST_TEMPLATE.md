@@ -13,3 +13,4 @@
 * [ ]  Have you manually tested this on PR-environment?
 * [ ]  Have written documentation?
 * [ ]  Following PR-name standard? `[<section>] <Short description>`
+* [ ]  Following the same name as YouTrack task?
