@@ -1,4 +1,4 @@
-### Changelog
+### Changes
 * Describe the feature, enhancement or bugfix
 
 ### YouTrack
