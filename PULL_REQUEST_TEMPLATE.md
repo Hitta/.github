@@ -12,5 +12,5 @@
 * [ ]  Have screenshots been attached in PR (if it helps the review)?
 * [ ]  Have you manually tested this on PR-environment?
 * [ ]  Have written documentation?
-* [ ]  Following PR-name standard? `[<section>] <Short description>`
+* [ ]  Following PR-name standard? `TECH-XXXX [section] Short description`
 * [ ]  Following the same name as YouTrack task?
