@@ -1,8 +1,8 @@
 ### Changes
 * Describe the feature, enhancement or bugfix
 
-### YouTrack
-<img src="https://linear.app/favicon.ico" alt="Linear" width="15" height="15"> [Linear_SUBJECT](LINEAR_URL)
+### Linear
+<img src="https://linear.app/favicon.ico" alt="Linear" width="15" height="15"> [Linear task](LINEAR_URL)
 
 ### Deploy notes
 * Environment variables, scripts or changes in dependencies
