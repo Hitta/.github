@@ -2,7 +2,7 @@
 * Describe the feature, enhancement or bugfix
 
 ### YouTrack
-<img src="https://hitta.myjetbrains.com/youtrack/static/favicon.ico" alt="YouTrack" width="15" height="15"> [YOUTRACK_SUBJECT](YOUTRACK_URL)
+<img src="https://linear.app/favicon.ico" alt="Linear" width="15" height="15"> [Linear_SUBJECT](LINEAR_URL)
 
 ### Deploy notes
 * Environment variables, scripts or changes in dependencies
